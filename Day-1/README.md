@@ -83,3 +83,11 @@ terraform apply
 # Manual loading: Use the -var-file flag for environment-specific files (like `dev.tfvars` `prod.tfvars`)
 terraform apply -var-file="dev.tfvars"
 ```
+
+
+## Others
+
+- **Argument**: Key-value pair inside a block that configures its behavior.  
+- **Attribute**: Exposed information of a resource that can be referenced (e.g., `aws_instance.example.id`).  
+- **Meta-Arguments**: Special arguments (e.g., `count`, `for_each`, `depends_on`, `provider`) that modify how resources are managed.  
+- **Provisioner**: Runs scripts or commands on a resource after creation or destruction (not recommended for general configuration management).  
