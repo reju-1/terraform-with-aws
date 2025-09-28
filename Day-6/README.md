@@ -1,1 +1,1 @@
-# Terraform Import
+# Day 6: Terraform provisioners

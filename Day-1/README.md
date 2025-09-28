@@ -1,4 +1,4 @@
-# Terraform Day 1
+# Day 1: Terraform Overview
 
 On **Day 1**, we cover an overview of **Terraform blocks**, especially:
 - `variable` (input variables)

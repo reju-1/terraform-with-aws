@@ -1,8 +1,5 @@
-## Day 3
+# Day 3: remote backend & data block
 
-**Learning Outcome**
-- S3 remote backend
-- Data block
 
 ### Remote Backend
 

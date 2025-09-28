@@ -1,3 +1,3 @@
-## Providers & S3 backend Overview
+# Day 2: Providers Overview
 - AWS provider 
 - Random Provider
