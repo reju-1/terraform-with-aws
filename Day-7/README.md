@@ -1,1 +1,1 @@
-# Day 7: Terraform Import
+# Day 7: Terraform Dynamics Block and Meta-Arguments
