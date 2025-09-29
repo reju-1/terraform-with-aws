@@ -1,0 +1,2 @@
+Terraform provides over 100+ built-in functions, organized into categories such as string,
+collection, numeric, encoding, filesystem, crypto, type conversion, date/time, and networking.
